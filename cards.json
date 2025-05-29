@@ -1,0 +1,202 @@
+[
+  {
+    "name": "HDFC Regalia",
+    "issuer": "HDFC",
+    "fee": 2500,
+    "rewards": "4 points/₹150",
+    "perks": ["Lounge access", "Travel benefits"],
+    "eligibility": "Salary > ₹50K/month",
+    "category": ["travel", "dining"],
+    "apply_link": "#"
+  },
+  {
+    "name": "SBI SimplyCLICK",
+    "issuer": "SBI",
+    "fee": 499,
+    "rewards": "10X on online shopping",
+    "perks": ["Amazon vouchers", "Cashback"],
+    "eligibility": "Salary > ₹25K/month",
+    "category": ["shopping", "groceries"],
+    "apply_link": "#"
+  },
+  {
+    "name": "ICICI Coral",
+    "issuer": "ICICI",
+    "fee": 500,
+    "rewards": "2 points/₹100",
+    "perks": ["Movie discounts", "Lounge access"],
+    "eligibility": "Salary > ₹20K/month",
+    "category": ["entertainment", "dining"],
+    "apply_link": "#"
+  },
+  {
+    "name": "Axis Bank Magnus",
+    "issuer": "Axis",
+    "fee": 10000,
+    "rewards": "12 points/₹200",
+    "perks": ["Luxury hotels", "Lounge access"],
+    "eligibility": "Salary > ₹1L/month",
+    "category": ["travel", "premium"],
+    "apply_link": "#"
+  },
+  {
+    "name": "Amazon Pay ICICI",
+    "issuer": "ICICI",
+    "fee": 0,
+    "rewards": "5% back on Amazon",
+    "perks": ["No annual fee", "Cashback"],
+    "eligibility": "Basic income proof",
+    "category": ["shopping"],
+    "apply_link": "#"
+  },
+  {
+    "name": "Flipkart Axis Bank Card",
+    "issuer": "Axis",
+    "fee": 500,
+    "rewards": "5% on Flipkart",
+    "perks": ["Cashback", "Travel offers"],
+    "eligibility": "Income > ₹20K/month",
+    "category": ["shopping", "groceries"],
+    "apply_link": "#"
+  },
+  {
+    "name": "HDFC Millennia",
+    "issuer": "HDFC",
+    "fee": 1000,
+    "rewards": "5% cashback on Amazon/Flipkart",
+    "perks": ["Travel deals", "Movie offers"],
+    "eligibility": "Income > ₹30K/month",
+    "category": ["shopping", "dining"],
+    "apply_link": "#"
+  },
+  {
+    "name": "SBI Elite",
+    "issuer": "SBI",
+    "fee": 4999,
+    "rewards": "5 points/₹100",
+    "perks": ["Lounge access", "Movie tickets"],
+    "eligibility": "Salary > ₹75K/month",
+    "category": ["travel", "entertainment"],
+    "apply_link": "#"
+  },
+  {
+    "name": "ICICI Platinum",
+    "issuer": "ICICI",
+    "fee": 199,
+    "rewards": "2 points/₹100",
+    "perks": ["Fuel surcharge waiver"],
+    "eligibility": "Basic income",
+    "category": ["fuel", "groceries"],
+    "apply_link": "#"
+  },
+  {
+    "name": "Standard Chartered Super Value Titanium",
+    "issuer": "SCB",
+    "fee": 750,
+    "rewards": "5% on fuel, utility bills",
+    "perks": ["Fuel cashback"],
+    "eligibility": "Income > ₹30K/month",
+    "category": ["fuel", "utilities"],
+    "apply_link": "#"
+  },
+  {
+    "name": "Yes First Preferred",
+    "issuer": "Yes Bank",
+    "fee": 2500,
+    "rewards": "6 points/₹200",
+    "perks": ["Priority Pass", "Travel insurance"],
+    "eligibility": "Income > ₹50K/month",
+    "category": ["travel", "premium"],
+    "apply_link": "#"
+  },
+  {
+    "name": "Kotak Essentia",
+    "issuer": "Kotak",
+    "fee": 749,
+    "rewards": "10 points/₹100 on groceries",
+    "perks": ["Cashback on groceries"],
+    "eligibility": "Income > ₹20K/month",
+    "category": ["groceries", "shopping"],
+    "apply_link": "#"
+  },
+  {
+    "name": "IndusInd Platinum Aura",
+    "issuer": "IndusInd",
+    "fee": 899,
+    "rewards": "4X on dining & shopping",
+    "perks": ["Movie offers"],
+    "eligibility": "Income > ₹25K/month",
+    "category": ["dining", "shopping"],
+    "apply_link": "#"
+  },
+  {
+    "name": "RBL ShopRite",
+    "issuer": "RBL",
+    "fee": 500,
+    "rewards": "20 points/₹100 on groceries",
+    "perks": ["Fuel cashback", "Movie discounts"],
+    "eligibility": "Salary > ₹25K/month",
+    "category": ["groceries", "fuel"],
+    "apply_link": "#"
+  },
+  {
+    "name": "AU Small Finance Vetta",
+    "issuer": "AU Bank",
+    "fee": 3000,
+    "rewards": "2% on online spends",
+    "perks": ["Airport lounge", "Golf benefits"],
+    "eligibility": "High income",
+    "category": ["premium", "travel"],
+    "apply_link": "#"
+  },
+  {
+    "name": "IDFC First Millennia",
+    "issuer": "IDFC First",
+    "fee": 0,
+    "rewards": "3X to 10X reward points",
+    "perks": ["Zero annual fee", "Cashback"],
+    "eligibility": "Open to all salaried",
+    "category": ["shopping", "dining"],
+    "apply_link": "#"
+  },
+  {
+    "name": "HSBC Cashback",
+    "issuer": "HSBC",
+    "fee": 750,
+    "rewards": "1.5% cashback on all spends",
+    "perks": ["Dining offers", "EMI options"],
+    "eligibility": "Income > ₹25K/month",
+    "category": ["cashback", "dining"],
+    "apply_link": "#"
+  },
+  {
+    "name": "American Express SmartEarn",
+    "issuer": "Amex",
+    "fee": 495,
+    "rewards": "10X on Amazon, Uber",
+    "perks": ["Gift vouchers"],
+    "eligibility": "Income > ₹40K/month",
+    "category": ["shopping", "cashback"],
+    "apply_link": "#"
+  },
+  {
+    "name": "Citi Rewards",
+    "issuer": "Citi",
+    "fee": 1000,
+    "rewards": "10X on apparel & dining",
+    "perks": ["Dining privileges"],
+    "eligibility": "Income > ₹35K/month",
+    "category": ["dining", "shopping"],
+    "apply_link": "#"
+  },
+  {
+    "name": "Bank of Baroda Eterna",
+    "issuer": "BoB",
+    "fee": 2499,
+    "rewards": "15 points/₹100",
+    "perks": ["Airport lounge", "Insurance"],
+    "eligibility": "High income",
+    "category": ["premium", "travel"],
+    "apply_link": "#"
+  }
+]
